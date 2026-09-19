@@ -10,19 +10,19 @@
 // ─────────────────────────────────────────────────────────────
 
 export const profile = {
-  name: "Muhammad Muneeb Sohail",
-  initials: "MS",
+  name: "Muhammad Bilal Arshad",
+  initials: "MA",
   roles: ["Software Engineer", "Web Developer", "Data Scientist", "Agentic AI Enthusiast"],
   location: "Lahore, Pakistan",
   intro:
     "Software Engineering student building across the stack — from React interfaces to data pipelines to agentic AI systems that actually do things.",
   avatar: "WhatsApp Image 2026-07-11 at 22.10.25.jpeg", // put an image path in /public and reference it here, e.g. "/avatar.jpg"
   resumeUrl: "#", // replace with a link to your resume PDF (e.g. hosted in /public/resume.pdf)
-  email: "muneebsohail243@example.com", // ← replace with your real email
-  phone: "+92 306 6570061", // ← replace with your real phone number
+  email: "abilal.barshad@gmail.com", // ← replace with your real email
+  phone: "+92 310 3101312", // ← replace with your real phone number
   socials: {
-    github: "https://github.com/muneebsohail212", // ← replace with your GitHub profile
-    linkedin: "www.linkedin.com/in/muhammad-muneeb-sohail-73a38434b", // ← replace with your LinkedIn profile
+    github: "https://github.com/MuhammadBilalArshad102", // ← replace with your GitHub profile
+    linkedin: "https://www.linkedin.com/in/mbilalarshad-", // ← replace with your LinkedIn profile
     // ← replace or remove if unused
   },
 };
@@ -91,7 +91,7 @@ export const projects = {
       description:
         "This site. A fully responsive React + Tailwind portfolio with a componentized structure, real interactivity, and a proper Git-tracked deployment.",
       stack: ["React", "Tailwind CSS", "Vite", "JavaScript","MongoDb","Postman"],
-      github: "https://github.com/muneebsohail212/Lunaire.git", // ← put this project's GitHub repo link here
+      github: "https://github.com/MuhammadBilalArshad102/Lunaire.git", // ← put this project's GitHub repo link here
       demo: "https://lunaire.vercel.app/", // ← put this project's live/deployed link here
       featured: true,
     },
@@ -104,7 +104,7 @@ export const projects = {
         "Parallel Sorting Visualizer is a web-based application that visually demonstrates and compares sorting algorithms. It uses HTML, CSS, JavaScript, and Python Flask to display the sorting process through animated data bars while showing algorithm performance and execution time. The project focuses on understanding sorting algorithms and the benefits of parallel processing"
 ,
       stack: ["Python", "Html", "Css", "JavaScript"],
-      github: "https://github.com/muneebsohail212/Parallel-Sorting-Visualizer.git", // ← put this project's GitHub repo link here
+      github: "https://github.com/MuhammadBilalArshad102/Parallel-Sorting-Visualizer.git", // ← put this project's GitHub repo link here
       demo: "https://parallel-sorting-visualizer.vercel.app/", // ← put this project's live/deployed link here (e.g. a notebook viewer or write-up)
       featured: true,
     },
@@ -115,7 +115,7 @@ export const projects = {
   description:
     "A weather monitoring application built with React that uses a weather API to fetch and display real-time weather information, including temperature, conditions, and other weather details.",
   stack: ["React", "JavaScript", "Weather API", "HTML", "CSS"],
-  github: "https://github.com/muneebsohail212/FentixTechTask10.git",
+  github: "https://github.com/MuhammadBilalArshad102/FentixTechTask10.git",
   demo: "https://fentix-tech-task10-five.vercel.app/",
   featured: false,
 },
@@ -126,10 +126,10 @@ export const projects = {
   description:
     "A collection of data science tasks involving data cleaning, exploratory data analysis, visualization, feature engineering, and machine learning to extract insights and build predictive models.",
   stack: ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Machine Learning"],
-  github: "https://github.com/muneebsohail212/NextGenTask1Week1.git",
-  taskpart2: "https://github.com/muneebsohail212/Week2NextGen.git",
-  taskpart3:"https://github.com/muneebsohail212/NextGenWeek3Task.git",
-  taskpart4:"https://github.com/muneebsohail212/NextGenweek4.git",
+  github: "https://github.com/MuhammadBilalArshad102/NextGenTask1Week1.git",
+  taskpart2: "https://github.com/MuhammadBilalArshad102/Week2NextGen.git",
+  taskpart3:"https://github.com/MuhammadBilalArshad102/NextGenWeek3Task.git",
+  taskpart4:"https://github.com/MuhammadBilalArshad102/NextGenweek4.git",
   featured: true,
 },
 {
@@ -139,7 +139,7 @@ export const projects = {
   description:
     "A responsive furniture website designed using HTML, CSS, and Bootstrap, featuring a clean product layout, navigation, responsive sections, and a user-friendly interface.",
   stack: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-  github: "https://github.com/muneebsohail212/FentixTechTask8.git",
+  github: "https://github.com/MuhammadBilalArshad102/FentixTechTask8.git",
   demo: "https://fentix-tech-task8.vercel.app/",
   featured: false,
 },,

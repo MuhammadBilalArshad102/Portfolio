@@ -16,7 +16,7 @@ export const profile = {
   location: "Lahore, Pakistan",
   intro:
     "Software Engineering student building across the stack — from React interfaces to data pipelines to agentic AI systems that actually do things.",
-  avatar: "WhatsApp Image 2026-07-11 at 22.10.25.jpeg", // put an image path in /public and reference it here, e.g. "/avatar.jpg"
+  avatar: "WhatsApp Image 2026-09-18 at 4.26.17 PM.jpeg", // put an image path in /public and reference it here, e.g. "/avatar.jpg"
   resumeUrl: "#", // replace with a link to your resume PDF (e.g. hosted in /public/resume.pdf)
   email: "abilal.barshad@gmail.com", // ← replace with your real email
   phone: "+92 310 3101312", // ← replace with your real phone number
